@@ -1,0 +1,17 @@
+<style>
+div.warning {    
+    background-color: #f78888;
+    border-color: #dFb5b4;
+    border-left: 5px solid #ff3d3d;
+    padding: 0.5em;
+    }
+</style>
+
+<style>
+div.guide {    
+    background-color: #b2d7ff;
+    border-color: #dFb5b4;
+    border-left: 5px solid #3a99ff;
+    padding: 0.5em;
+    }
+</style>
